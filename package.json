@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Template for OpenShift MEAN-stack ",
+  "main": "server.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hartikap/OpenShiftTemplate.git"
+  },
+  "author": "Pekka Hartikainen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hartikap/OpenShiftTemplate/issues"
+  },
+  "homepage": "https://github.com/hartikap/OpenShiftTemplate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
